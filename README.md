@@ -1,2 +1,2 @@
 # ProjetoHora
-Este projeto visa melhorar e otimizar a forma de ponto digital nas empresas. No mercado, hoje, há muitos problemas em aplicativos que marcam o ponto, como falta de funcionalidades essenciais, instabilidades constantes e layouts confusos. Esse aplicativo visa otimizar o tempo para ambos os lado, tanto quem utiliza e administra, corrigindo todos esses problemas.
+Este projeto visa melhorar e otimizar a forma de registro de ponto digital nas empresas. No mercado, atualmente, há muitos problemas em aplicativos que marcam o ponto, como falta de funcionalidades essenciais, instabilidades constantes e layouts confusos. Esse aplicativo visa otimizar o tempo para ambos os lado, tanto para quem utilizá-lo ou administrá-lo, corrigindo todos esses problemas.
